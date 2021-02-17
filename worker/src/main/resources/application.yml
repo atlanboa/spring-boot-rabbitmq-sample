@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: localhost
+    username: ops0
+    password: ops0
+
+
